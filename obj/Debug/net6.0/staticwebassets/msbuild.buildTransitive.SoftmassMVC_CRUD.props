@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SoftmassMVC_CRUD.props" />
+</Project>
